@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "shieldbreaker",
   "version": "${version}",
-  "name": "Auto Shield Breaker",
+  "name": "PrivateSuffecation",
   "description": "Automatically swaps to your best axe when you attack a blocking target.",
   "authors": ["You"],
   "license": "MIT",
